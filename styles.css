@@ -1,0 +1,10 @@
+#answer {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#answer button {
+    margin: 5px;
+}
